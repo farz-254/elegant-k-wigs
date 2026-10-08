@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  background-color: #242424;
+  color: #f5f1eb;
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+}
+
+a {
+  color: inherit;
+}
+
+::selection {
+  background-color: #c89b6d;
+  color: #171717;
+}
+
+.btn-dark {
+  background-color: #c89b6d !important;
+  border-color: #c89b6d !important;
+  color: #171717 !important;
+}
+
+.btn-dark:hover {
+  background-color: #ddb58c !important;
+  border-color: #ddb58c !important;
+}
+
+.form-control {
+  background-color: #fffaf3;
+  color: #29231e;
+  border: 1px solid #d8c8b5;
+  border-radius: 12px;
+}
+
+.form-control:focus {
+  background-color: #fffaf3;
+  color: #29231e;
+  border-color: #b88a61;
+  box-shadow: 0 0 0 0.2rem rgba(184, 138, 97, 0.15);
+}
+
+.form-control::placeholder {
+  color: #a49a90;
+}
