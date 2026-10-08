@@ -388,7 +388,7 @@ Please let me know the next steps for payment and delivery.`;
       // WHATSAPP NUMBER
       // =========================
 
-      const whatsappNumber = "254708374149";
+      const whatsappNumber = "254712003090";
 
       // =========================
       // OPEN WHATSAPP
