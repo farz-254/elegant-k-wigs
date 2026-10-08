@@ -207,7 +207,7 @@ const payWithMpesa = async () => {
     console.log("Amount:", totalPrice);
 
     const response = await fetch(
-      "http://localhost:5001/api/mpesa/stkpush",
+      "https://elegant-k-wigs-backend.onrender.com/api/mpesa/stkpush" ,
       {
         method: "POST",
 
@@ -301,7 +301,7 @@ const placeOrder = async () => {    // Check required customer information
       // =========================
 
       const response = await fetch(
-        "http://localhost:5001/api/orders",
+        "https://elegant-k-wigs-backend.onrender.com/api/orders",
         {
           method: "POST",
           headers: {
