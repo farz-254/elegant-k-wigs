@@ -616,11 +616,13 @@ Please let me know the next steps for payment and delivery.`;
                 }}
               >
                 <img
-                  src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=85"
+                 src="/elegant-k-wigs-logo.jpeg"
                   alt="Elegant wig"
                   className="w-100 h-100"
                   style={{
-                    objectFit: "cover",
+                    objectFit: "contain",
+backgroundColor: "#f5f1eb",
+padding: "30px",
                   }}
                 />
               </div>
