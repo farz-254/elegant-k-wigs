@@ -538,7 +538,7 @@ Please let me know the next steps for payment and delivery.`;
                 ELEGANCE REDEFINED
               </p>
               <img
-  src="/elegant-k-wigs-logo.jpeg"
+  src="/elegant-k-wigs-logo.png.jpeg"
   alt="Elegant K Wigs"
   style={{
     width: "180px",
@@ -616,7 +616,7 @@ Please let me know the next steps for payment and delivery.`;
                 }}
               >
                 <img
-                 src="/elegant-k-wigs-logo.jpeg"
+                 src="/elegant-k-wigs-logo.png.jpeg"
                   alt="Elegant wig"
                   className="w-100 h-100"
                   style={{
