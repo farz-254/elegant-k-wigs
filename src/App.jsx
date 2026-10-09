@@ -448,6 +448,7 @@ Please let me know the next steps for payment and delivery.`;
                 "Playfair Display, serif",
             }}
           >
+            
             Elegant{" "}
             <span style={{ color: "#c89b6d" }}>
               K
@@ -536,6 +537,17 @@ Please let me know the next steps for payment and delivery.`;
               >
                 ELEGANCE REDEFINED
               </p>
+              <img
+  src="/elegant-k-wigs-logo.jpeg"
+  alt="Elegant K Wigs"
+  style={{
+    width: "180px",
+    maxWidth: "80%",
+    height: "auto",
+    objectFit: "contain",
+    marginBottom: "20px",
+  }}
+/>
 
               <h1
                 className="display-2 fw-bold"
@@ -569,7 +581,24 @@ Please let me know the next steps for payment and delivery.`;
                 love effortless elegance, confidence
                 and unforgettable style.
               </p>
+              <div
+  style={{
+    color: "#c89b6d",
+    marginTop: "20px",
+    fontSize: "14px",
+    lineHeight: "1.8",
+  }}
+>
+  <div className="fw-bold mb-1">
+    <i className="bi bi-geo-alt-fill me-2"></i>
+    VISIT OUR SHOP
+  </div>
 
+  <div style={{ color: "#bdb8b0" }}>
+    Lydia Arcade Building, 1st Floor, Room 125,
+    Kenyatta Avenue, Nakuru
+  </div>
+</div>
               <a
                 href="#products"
                 className="btn btn-dark btn-lg rounded-pill px-5 mt-3"
